@@ -1,2 +1,2 @@
 # LinuxServidorWeb
-Projeto guiadopara o bootcamp Linux Experience de Digital Innovation One.
+Projeto guiado para o bootcamp Linux Experience de Digital Innovation One.
